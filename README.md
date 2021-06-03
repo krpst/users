@@ -17,5 +17,5 @@ I chose some approaches:
 
 Improvements:
 * add more tests;
-* implement other Repository, Notifier and cmd;
+* implement Repository, Notifier and cmd;
 * add API docs, use SWAGGER;
